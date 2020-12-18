@@ -1,4 +1,4 @@
 # my_first_repository
-Dumm Repository zum Üben
+Dummy Repository zum Üben
 
 Lorem ipsum...
